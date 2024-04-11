@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ic.doc.BookSearchQueryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-11T19:56:48" hostname="ShihandeMacBook-Pro.local" time="0.006">
+  <properties/>
+  <testcase name="searchesForBooksInLibraryCatalogueByAuthorFirstname" classname="ic.doc.BookSearchQueryTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
