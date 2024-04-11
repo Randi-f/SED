@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ic.doc.ArithmeticEngineTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-11T20:59:42" hostname="ShihandeMacBook-Pro.local" time="0.007">
+  <properties/>
+  <testcase name="supportsSubstractingTwoValues" classname="ic.doc.ArithmeticEngineTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
